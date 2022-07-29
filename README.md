@@ -1,2 +1,2 @@
 # WebWeek1_Lab1
-ไฟลื lab1
+ไฟล์ lab 1
